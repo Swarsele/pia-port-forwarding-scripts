@@ -1,3 +1,5 @@
+2021 UPDATE: This fork alone is no longer enough to get the port forwarding to work! Refer to https://forum.htpcguides.com/Thread-PIA-Next-Gen-Servers-and-Port-Forwarding-Automation for a very detailed guide to update your system.
+
 # pia-portforwarding-scripts
 PIA Port forwarding scripts
 
